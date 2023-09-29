@@ -1,0 +1,2 @@
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp0000.exe
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp0000.dll

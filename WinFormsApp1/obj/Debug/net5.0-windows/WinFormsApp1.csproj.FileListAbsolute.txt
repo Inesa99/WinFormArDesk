@@ -1,0 +1,109 @@
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignInForm.resources
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignUpForm.resources
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\newProject\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignInForm.resources
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignUpForm.resources
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\user\Desktop\Новая папка\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.EnterTextFilesForm.resources
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.EnterTextFilesForm.resources
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignInForm.resources
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignUpForm.resources
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\Student\Desktop\New Project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.deps.json
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.runtimeconfig.dev.json
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.EnterTextFilesForm.resources
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormNewFile.resources
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignInForm.resources
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignUpForm.resources
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\refint\WinFormsApp1.dll
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (2)\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.exe
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.EnterTextFilesForm.resources
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.FormNewFile.resources
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignInForm.resources
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.SignUpForm.resources
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.csproj.CopyComplete
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.dll
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\WinFormsApp1.dll
+C:\Users\Student\Desktop\project\ifcmarge\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.pdb
